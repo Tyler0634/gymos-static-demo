@@ -1,1 +1,0 @@
-# gymos-static-demo
